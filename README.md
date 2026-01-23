@@ -77,9 +77,6 @@ An AI-assisted system that **detects code bugs and auto-suggests fixes**, featur
 
 - English — Fluent  
 - French — Fluent  
-- Spanish — Intermediate  
-- German — Basics  
-
 ---
 
 ## 🎯 Strengths & Interests
