@@ -1,113 +1,170 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Sprusheeth Rao</h1>
 
-# 👋 Hi, I’m Sprusheeth Rao
+<h3 align="center">
+Computer Science Engineering Student • Aspiring Full-Stack Developer • Tech Explorer
+</h3>
 
-🎓 **Computer Science Engineering Student (3rd Year)**  
-📍 SR University | 2023 – 2027  
-💻 Aspiring Full-Stack Developer | Problem Solver | Tech Explorer  
+<p align="center">
+🎓 SR University | 2023 – 2027 • 3rd Year CSE
+</p>
 
----
+<p align="center">
+<a href="mailto:Sprusheeth@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learning-Never%20Stops-green?style=for-the-badge">
+</p>
 
-## 👨‍💻 About Me
+<hr>
 
-I’m a passionate Computer Science student who enjoys turning ideas into real-world applications.  
-I work with **Java, Web Technologies, SQL**, and love building projects that solve practical problems.
+<!-- ================= ABOUT ================= -->
+<h2>👨‍💻 About Me</h2>
 
-I learn fast, adapt quickly, and enjoy collaborating under pressure—whether it’s a hackathon or a team project.
+<p>
+I’m a <b>Computer Science Engineering student</b> who enjoys converting ideas into 
+<b>real-world, usable applications</b>. I mainly work with 
+<b>Java, Web Technologies, and SQL</b>.
+</p>
 
----
+<p>
+I believe in <b>learning by building</b>. I adapt quickly, work well under pressure, and enjoy
+collaborating in hackathons, academic projects, and team environments.
+</p>
 
-## 🛠️ Tech Stack
+<p>
+My goal is to become a <b>strong full-stack developer</b> with deep problem-solving skills
+and the ability to design clean, scalable systems.
+</p>
 
-**Languages**
-- Java
-- C  
-- JavaScript  
-- SQL (Oracle)
+<hr>
 
-**Web**
-- HTML5  
-- CSS3  
-- JavaScript  
+<!-- ================= TECH STACK ================= -->
+<h2>🛠️ Tech Stack</h2>
 
-**Core Skills**
-- Problem Solving  
-- Debugging  
-- Project Planning  
-- Team Collaboration  
+<h4>Languages</h4>
 
----
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
 
-## 📂 Projects
+<h4>Web Technologies</h4>
 
-### 🔹 Blog Website
-A clean and responsive blog platform built using **HTML, CSS, and JavaScript** with a focus on UI and usability.
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge">
+</p>
 
-### 🔹 Smart Tourist Safety Monitoring System (SIH Hackathon)
-A **24-hour hackathon project** designed to deliver real-time tourist safety alerts using smart monitoring concepts.
+<h4>Core Skills</h4>
 
-### 🔹 AI-Powered Bug Fixing Platform
-An AI-assisted system that **detects code bugs and auto-suggests fixes**, featuring a structured UI workflow.
+<ul>
+<li>Problem Solving</li>
+<li>Debugging & Optimization</li>
+<li>Project Planning</li>
+<li>Team Collaboration</li>
+<li>Logical Thinking</li>
+</ul>
 
----
+<hr>
 
-## 🏆 Experience
+<!-- ================= PROJECTS ================= -->
+<h2>📂 Projects</h2>
 
-**Project Developer (Academic & Self Projects)**  
-*SR University | 2023 – Present*
+<h3>🔹 Blog Website</h3>
+<p>
+A clean and responsive blog platform built using 
+<b>HTML, CSS, and JavaScript</b>, focused on UI clarity, readability, and responsiveness.
+</p>
 
-- Built multiple real-world inspired applications  
-- Worked on frontend development, debugging, and optimization  
-- Collaborated with peers to deliver functional prototypes under tight deadlines  
+<h3>🔹 Smart Tourist Safety Monitoring System (SIH Hackathon)</h3>
+<p>
+A <b>24-hour hackathon project</b> designed to provide real-time tourist safety alerts using
+smart monitoring and alerting concepts.
+</p>
 
----
+<h3>🔹 AI-Powered Bug Fixing Platform</h3>
+<p>
+An AI-assisted platform that <b>detects code bugs and auto-suggests fixes</b>, featuring a
+structured workflow and developer-friendly UI.
+</p>
 
-## 📜 Certifications
+<hr>
 
-- Java Programming  
-- SQL & Databases  
-- Web Development  
-- Emerging Technologies  
+<!-- ================= EXPERIENCE ================= -->
+<h2>🏆 Experience</h2>
 
-(Hands-on learning through online platforms and university programs)
+<b>Project Developer (Academic & Self Projects)</b><br>
+<i>SR University | 2023 – Present</i>
 
----
+<ul>
+<li>Built multiple academic and self-initiated projects</li>
+<li>Handled frontend development, debugging, and UI improvements</li>
+<li>Worked in teams to deliver functional prototypes within deadlines</li>
+</ul>
 
-## 🌍 Languages
+<hr>
 
-- English — Fluent  
-- Hindi 
----
+<!-- ================= CERTIFICATIONS ================= -->
+<h2>📜 Certifications</h2>
 
-## 🎯 Strengths & Interests
+<ul>
+<li>Java Programming</li>
+<li>SQL & Database Fundamentals</li>
+<li>Web Development</li>
+<li>Emerging Technologies</li>
+</ul>
 
-- Quick Learner  
-- Strategic Thinking  
-- Curious about New Technologies  
-- Strong Adaptability & Decision Making  
+<p><i>Hands-on learning through online platforms and university programs</i></p>
 
----
+<hr>
 
-## 📫 Connect With Me
+<!-- ================= LANGUAGES ================= -->
+<h2>🌍 Languages</h2>
 
-📧 Email: **Sprusheeth@gmail.com**  
+<ul>
+<li>English — Fluent</li>
+<li>Hindi</li>
+</ul>
 
----
+<hr>
 
-⭐ *“Consistency beats talent when talent doesn’t work consistently.”*
+<!-- ================= STRENGTHS ================= -->
+<h2>🎯 Strengths & Interests</h2>
 
+<ul>
+<li>Quick Learner</li>
+<li>Strategic & Logical Thinking</li>
+<li>Curious About New Technologies</li>
+<li>High Adaptability & Decision-Making Ability</li>
+</ul>
 
-<!--
-**Sprusheeth/Sprusheeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<!-- ================= GITHUB STATS ================= -->
+<h2>📊 GitHub Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...A
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sprusheeth&show_icons=true&theme=tokyonight" height="160">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprusheeth&theme=tokyonight" height="160">
+</p>
+
+<hr>
+
+<!-- ================= CONTACT ================= -->
+<h2>📫 Connect With Me</h2>
+
+<p>
+📧 <b>Email:</b> <a href="mailto:Sprusheeth@gmail.com">Sprusheeth@gmail.com</a>
+</p>
+
+<hr>
+
+<!-- ================= QUOTE ================= -->
+<p align="center">
+<b>⭐ “Consistency beats talent when talent doesn’t work consistently.”</b>
+</p>
