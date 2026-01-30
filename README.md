@@ -76,7 +76,7 @@ An AI-assisted system that **detects code bugs and auto-suggests fixes**, featur
 ## 🌍 Languages
 
 - English — Fluent  
-- French — Fluent  
+- Hindi 
 ---
 
 ## 🎯 Strengths & Interests
