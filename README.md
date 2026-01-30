@@ -27,25 +27,25 @@ Computer Science Engineer • Full-Stack Developer (In Progress)
 <br>
 
 <!-- ===================================================== -->
-<!-- ABOUT CARD -->
+<!-- ABOUT -->
 <!-- ===================================================== -->
 <div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
 
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a <b>Computer Science Engineering student</b> driven by curiosity, consistency, and a
-strong builder mindset.
+I am a <b>Computer Science Engineering student</b> driven by curiosity, consistency,
+and a strong <b>builder mindset</b>.
 </p>
 
 <p>
-I don’t chase surface-level knowledge. I focus on <b>deep understanding</b>,
-<b>problem-solving</b>, and <b>end-to-end execution</b>.
+I focus on <b>deep understanding</b>, <b>problem-solving</b>,
+and <b>end-to-end execution</b> rather than surface-level knowledge.
 </p>
 
 <p>
-My goal is to grow into a <b>high-impact software engineer</b> capable of designing
-scalable systems and leading meaningful technical work.
+My long-term goal is to grow into a <b>high-impact software engineer</b> capable of
+designing scalable systems and leading meaningful technical work.
 </p>
 
 </div>
@@ -53,7 +53,29 @@ scalable systems and leading meaningful technical work.
 <br>
 
 <!-- ===================================================== -->
-<!-- TECH STACK GRID -->
+<!-- BUILDER PHILOSOPHY -->
+<!-- ===================================================== -->
+<div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
+
+<h2>🧠 Builder Philosophy</h2>
+
+<ul>
+<li>Think in <b>systems</b>, not just features</li>
+<li>Prefer <b>clarity over complexity</b></li>
+<li>Focus on <b>long-term skill compounding</b></li>
+<li>Ship → Learn → Improve → Repeat</li>
+</ul>
+
+<p>
+Great engineers are built by <b>discipline, depth, and execution</b> — not shortcuts.
+</p>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- TECH STACK -->
 <!-- ===================================================== -->
 <div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
 
@@ -79,8 +101,35 @@ scalable systems and leading meaningful technical work.
 <li>Problem Solving & Debugging</li>
 <li>Logical & System Thinking</li>
 <li>UI/UX Awareness</li>
-<li>Team Collaboration</li>
 <li>Project Planning</li>
+<li>Team Collaboration</li>
+</ul>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- TECHNICAL DEPTH -->
+<!-- ===================================================== -->
+<div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
+
+<h2>⚙️ Technical Depth</h2>
+
+<h4>CS Foundations</h4>
+<ul>
+<li>OOP & Design Principles</li>
+<li>Time & Space Complexity</li>
+<li>Database Fundamentals</li>
+<li>Introductory System Design</li>
+</ul>
+
+<h4>Development Practices</h4>
+<ul>
+<li>Clean & Maintainable Code</li>
+<li>Debugging-first mindset</li>
+<li>Iterative Development</li>
+<li>Git & Version Control</li>
 </ul>
 
 </div>
@@ -102,13 +151,13 @@ A responsive and visually clean blog platform built using
 
 <h3>🛡️ Smart Tourist Safety Monitoring System</h3>
 <p>
-A <b>24-hour SIH hackathon project</b> delivering real-time safety alerts using
-smart monitoring concepts.
+A <b>24-hour SIH hackathon project</b> delivering real-time safety alerts
+using smart monitoring concepts.
 </p>
 
 <h3>🤖 AI-Powered Bug Fixing Platform</h3>
 <p>
-An AI-assisted system that <b>detects bugs</b> and <b>auto-suggests fixes</b>,
+An AI-assisted platform that <b>detects bugs</b> and <b>auto-suggests fixes</b>,
 designed to improve developer productivity.
 </p>
 
@@ -129,7 +178,7 @@ designed to improve developer productivity.
 <ul>
 <li>Built multiple real-world inspired applications</li>
 <li>Handled frontend workflows and debugging</li>
-<li>Worked under tight deadlines in team environments</li>
+<li>Delivered under tight deadlines</li>
 </ul>
 
 </div>
@@ -137,7 +186,7 @@ designed to improve developer productivity.
 <br>
 
 <!-- ===================================================== -->
-<!-- ROADMAP -->
+<!-- LEARNING ROADMAP -->
 <!-- ===================================================== -->
 <div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
 
@@ -145,10 +194,46 @@ designed to improve developer productivity.
 
 <ul>
 <li>✔ Java & Core CS Fundamentals</li>
-<li>✔ Advanced Frontend UI</li>
+<li>✔ Frontend Development</li>
 <li>🔄 Data Structures & Algorithms</li>
 <li>🔄 Backend & APIs</li>
-<li>🎯 System Design (Long-term)</li>
+<li>🎯 System Design (Long Term)</li>
+</ul>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- HIGHLIGHTS -->
+<!-- ===================================================== -->
+<div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
+
+<h2>🏅 Highlights</h2>
+
+<ul>
+<li>🚀 SIH Hackathon Participant</li>
+<li>🧠 Built AI-assisted debugging workflows</li>
+<li>🎨 Designed multiple frontend UIs</li>
+<li>📈 Consistent GitHub learner</li>
+</ul>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- OPEN TO -->
+<!-- ===================================================== -->
+<div style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
+
+<h2>🤝 Open To</h2>
+
+<ul>
+<li>Internship opportunities</li>
+<li>Open-source collaboration</li>
+<li>Hackathons & challenges</li>
+<li>Serious builder networks</li>
 </ul>
 
 </div>
@@ -174,9 +259,22 @@ designed to improve developer productivity.
 <br>
 
 <!-- ===================================================== -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ===================================================== -->
+<div align="center" style="padding:25px; border-radius:16px; background:#0d1117; border:1px solid #30363d;">
+
+<h2>🐍 Contribution Flow</h2>
+
+<img src="https://github.com/Sprusheeth/Sprusheeth/blob/output/github-contribution-grid-snake.svg">
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
 <!-- FOOTER -->
 <!-- ===================================================== -->
-<div align="center" style="padding:20px; border-radius:14px; background:linear-gradient(135deg,#232526,#414345); color:white;">
+<div align="center" style="padding:30px; border-radius:18px; background:linear-gradient(135deg,#141e30,#243b55); color:white;">
 
 <h3>📫 Connect With Me</h3>
 
